@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-A repository for script writing
+0x00. Shell, basics
