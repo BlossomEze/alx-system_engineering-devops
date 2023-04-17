@@ -1,8 +1,8 @@
 # 0x02 Shell, I/O Redirections and filters
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
+* Scripts written in Bash 5.1.
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 All of the following files are scripts:
